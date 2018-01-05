@@ -1,0 +1,4 @@
+backend:
+  name: github
+  repo: https://github.com/kloppervok/hugotesting2 # Path to your Github repository
+  branch: master # Branch to update
